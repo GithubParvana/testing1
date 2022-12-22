@@ -1,6 +1,1 @@
-python 
-python
-python
-python
-python
-
+print("Hello, world!")
